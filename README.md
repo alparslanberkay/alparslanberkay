@@ -1,21 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Berkay%20Alparslan&fontSize=70" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Berkay%20Alparslan&fontSize=70" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Berkay Alparslan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+  <h1>Hi 👋, I'm Berkay Alparslan</h1>
+  <h3>A passionate frontend developer from Turkey</h3>
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on [Yesilperde](https://github.com/alparslanberkay/Yesilperde)
-- 🌱 I’m currently learning **Javascript, React, C#**
-- 👯 I’m looking to collaborate on [Yesilperde](https://github.com/alparslanberkay/Yesilperde)
-- 👨‍💻 All of my projects are available at [ReactJs](https://github.com/alparslanberkay)
-- 💬 Ask me about **react, javascript, html & css**
-- 📫 How to reach me **berkayalparslann@gmail.com**
-- 📄 Know about my experiences [https://github.com/alparslanberkay](https://github.com/alparslanberkay)
-- ⚡ Fun fact **I think I look so funny when I lose while playing basketball.**
+  <p align="center">
+    🚀 <b>Currently working on:</b> <a href="https://github.com/alparslanberkay/Yesilperde">Yesilperde</a> <br/>
+    🌱 <b>Learning:</b> Javascript, React, C# <br/>
+    👯 <b>Collaborating on:</b> <a href="https://github.com/alparslanberkay/Yesilperde">Yesilperde</a> <br/>
+    💬 <b>Ask me about:</b> react, javascript, html & css <br/>
+    📫 <b>Reach me:</b> berkayalparslann@gmail.com <br/>
+    ⚡ <b>Fun fact:</b> I think I look so funny when I lose while playing basketball.
+  </p>
+</div>
 
 ---
 
