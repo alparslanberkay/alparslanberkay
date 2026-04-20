@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGGywaFbcsFTg/profile-displaybackgroundimage-shrink_200_800/B4DZU1mRsZHkAU-/0/1740360981690?e=1746057600&v=beta&t=le12ULDKxaFvCAoCjFoNmuU5z2C3iFc3LZKgKxaBjaM" alt="MasterHead" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Berkay%20Alparslan&fontSize=70" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Berkay Alparslan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
